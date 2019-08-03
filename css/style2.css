@@ -1,7 +1,7 @@
 body{
   background: #1C1C1D;
-  padding: 0;
-  margin: 0;
+  /*padding: 0;
+  margin: 0;*/
  font-family: Tahoma;
 
 }
@@ -82,7 +82,7 @@ ul li {
 }
 
 ul li a {
-
+  
   text-decoration: none;
   color: #fff;
   padding: 5px 20px;
